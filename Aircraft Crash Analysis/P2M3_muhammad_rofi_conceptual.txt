@@ -1,0 +1,29 @@
+1. Jelaskan apa yang Anda ketahui dari Airflow menggunakan pemahaman dan bahasa Anda sendiri !
+
+    Apache Airflow merupakah sebuah platform open-source yang digunakan untuk mengelola aliran pekerjaan (workflows)
+    data dan tugas-tugas terjadwal (automatis). Dengan Airflow, kita dapat mendefinisikan, menjadwalkan, dan
+    mengawasi aliran pekerjaan yang kompleks. Hal ini berguna dalam otomatisasi tugas-tugas ETL (Extract, Transform,
+    Load), pemrosesan data, dan perencanaan tugas-tugas terjadwal dalam berbagai aplikasi, seperti analisis data
+    dan pelaporan
+
+2. Jelaskan apa yang Anda ketahui dari Great Expectations menggunakan pemahaman dan bahasa Anda sendiri !
+
+    Great Expectations adalah perangkat lunak open-source yang digunakan untuk mengelola dan menguji kualitas data
+    dalam data science dan analisis data. Great Expectations memungkinkan kita untuk mendefinisikan aturan dan
+    ekspektasi terhadap data, serta secara otomatis menguji apakah data memenuhi ekspektasi tersebut.
+    Dengan tools ini kita dapat memastikan integritas, keandalan, dan kualitas data yang kita gunakan.
+
+3. Jelaskan apa yang Anda ketahui dari Batch Processing menggunakan pemahaman dan bahasa Anda sendiri (Definisi,
+   Contoh Kasus Penggunaan, Tools, dll) !
+
+   Batch Processing adalah metode pengolahan data di mana data diproses dalam kelompok besar atau batch.  Data-data
+   diakumulasi, kemudian diproses secara periodik. Kebanyakan batch processing digunakan dalam proses keuangan.
+   Contoh penggunaannya adalah adalah perhitungan gaji karyawan bulanan, pemrosesan transaksi harian di perbankan
+   atau pengolahan data historis untuk analisis. Tools yang dapat kita gunakan dalam batch processing yaitu 
+   Apache Hadoop, Apache Spark, dan Apache Flink. Batch processing efektif untuk tugas yang tidak memerlukan respon
+   real-time dan memungkinkan analisis data yang mendalam.
+
+
+
+
+
